@@ -1,0 +1,45 @@
+#chocPi {
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+#postDate {
+    font-size: x-small;
+    float: inline-start
+}
+
+#print {
+    float:inline-end;
+}
+
+#chocPiPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#recipe {
+    overflow-wrap: break-word;
+    width: 730px;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-indent: 2em;
+    
+}
+
+#ingredients {
+    column-count: 2;
+    background-image: url("/Img/list-bg.png");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 300px;
+    margin-top: 145px;
+    margin-bottom: 20px;
+    float: left;
+    font-family: sans-serif;
+    font-size: larger;
+}
